@@ -26,4 +26,13 @@ const start = async () => {
     }
 };
 
-start();
+//start();
+
+mongoose.connect(config.get('DB_URL'), {
+    useUnifiedTopology: true,
+    useCreateIndex: true,
+    useFindAndModify: false,
+    useNewUrlParser: true
+});
+
+App.listen(PORT, console.log(`SERVER HAS BEEN STARTED ON PORT ${PORT}`));
