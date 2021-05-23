@@ -35,4 +35,8 @@ mongoose.connect(config.get('DB_URL'), {
     useNewUrlParser: true
 });
 
+mongoose.connection.on('connected', () => {
+    console.log('Already connected to DB');
+})
+
 App.listen(PORT, console.log(`SERVER HAS BEEN STARTED ON PORT ${PORT}`));
