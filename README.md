@@ -10,3 +10,4 @@ There is:<br>
 2. `Express` Framework; => [Click here](https://expressjs.com/)<br>
 3. `MongoDB` DataBase included with mongoose packet; => [Click here](https://www.mongodb.com/)<br>
 5. `nodemon` dev-tool for restart server; => [Click here](https://nodemon.io/)<br>
+6. `Postman` dev-tool for request debug; => [Click here](https://www.postman.com/)<br>
