@@ -1,0 +1,4 @@
+{
+    "PORT": 3000,
+    "DB_URL": "mongodb+srv://admin:admin@clusterforlearn.ccbtj.mongodb.net/BooksLibrary?retryWrites=true&w=majority"
+}
