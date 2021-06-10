@@ -1,7 +1,7 @@
 # Node.js API
 
-This project published on Heroku, [Click here for see!](https://dashboard.heroku.com/apps/aakonkin-booksapi)<br>
-Or here (identical link) [https://dashboard.heroku.com/apps/aakonkin-booksapi](https://dashboard.heroku.com/apps/aakonkin-booksapi)<br>
+This project published on Heroku, [Click here for see!](https://dashboard.heroku.com/apps/aakonkin-booksapi/api/books)<br>
+Or here (identical link) [https://dashboard.heroku.com/apps/aakonkin-booksapi/api/books](https://dashboard.heroku.com/apps/aakonkin-booksapi/api/books)<br>
 
 ## API project
 Project based on practical learning and get new skills in build API. <br>
